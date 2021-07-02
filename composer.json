@@ -4,9 +4,6 @@
             "App\\": "server/src"
         }
     },
-    "require-dev": {
-        "symfony/var-dumper": "^5.3"
-    },
     "scripts": {
         "start": "php8.0 server/index.php"
     }
